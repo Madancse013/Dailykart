@@ -167,6 +167,5 @@ This repository serves as a public showcase including product overview, features
 **Madan R**
 📍 Bangalore, India
 🔗 https://madanrajendra.online
-🔗 https://linkedin.com/in/your-link
 
 ---
